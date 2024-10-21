@@ -3,10 +3,10 @@
 # 10/16/2024
 # Lab 06
 # Lab Section:14 
-# Sources, people worked with, help given to: Lecture Notes, 
-# your
-# comments
-# here
+# Sources, people worked with, help given to: Lecture Notes and Powerpoint, Online-Textbook, https://www.geeksforgeeks.org/python-string-isalpha-method/
+# Finsihed Lab outside of normal lab time due to semester break on October 14
+# 
+# 
 
 
 random_string = """
